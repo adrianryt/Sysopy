@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "library.h": "c",
+        "types.h": "c"
+    },
+    "git.ignoreLimitWarning": true
+}

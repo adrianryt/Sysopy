@@ -1,0 +1,1 @@
+Zestaw zostal zrealizowany w calosci

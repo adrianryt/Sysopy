@@ -1,0 +1,12 @@
+Fork():
+            parent      child
+Ignore       yes         yes
+Handler      yes         yes
+Mask         yes         yes
+Pending      yes         no
+
+exec():
+            parent      child
+Ignore       yes         yes
+Mask         yes         yes
+Pending      yes         yes

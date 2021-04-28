@@ -1,0 +1,1 @@
+Zestaw zostal zrealizowany w 90% (bez drugiej czesci zadania 3)

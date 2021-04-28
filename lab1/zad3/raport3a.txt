@@ -1,0 +1,129 @@
+Bibloteka statyczna
+Test 5 blocks, each 15 rows
+         REAL         USER         SYS
+MERGE    0.000404     0.000000     0.000000 
+DELETE   0.000003     0.000000     0.000000 
+Add-DEL  0.000312     0.000000     0.000000 
+
+Test 5 blocks, each 150 rows
+         REAL         USER         SYS
+MERGE    0.000738     0.000000     0.000000 
+DELETE   0.000022     0.000000     0.000000 
+Add-DEL  0.000621     0.000000     0.000000 
+
+Test 20 blocks, each 100 rows
+         REAL         USER         SYS
+MERGE    0.000981     0.000000     0.010000 
+DELETE   0.000024     0.000000     0.000000 
+Add-DEL  0.000956     0.000000     0.000000 
+
+Test 20 blocks, each 500 rows
+         REAL         USER         SYS
+MERGE    0.006482     0.000000     0.010000 
+DELETE   0.000464     0.000000     0.000000 
+Add-DEL  0.007300     0.010000     0.000000 
+
+Test 100 blocks, each 100 rows
+         REAL         USER         SYS
+MERGE    0.010262     0.000000     0.010000 
+DELETE   0.000423     0.000000     0.000000 
+Add-DEL  0.009806     0.010000     0.000000 
+
+Test 100 blocks, each 300 rows
+         REAL         USER         SYS
+MERGE    0.026059     0.010000     0.020000 
+DELETE   0.001115     0.000000     0.000000 
+Add-DEL  0.019816     0.000000     0.020000 
+
+Test 300 blocks, each 800 rows
+         REAL         USER         SYS
+MERGE    0.045880     0.020000     0.020000 
+DELETE   0.004148     0.010000     0.000000 
+Add-DEL  0.060062     0.020000     0.030000 
+
+Bibloteka dzielona
+Test 5 blocks, each 15 rows
+         REAL         USER         SYS
+MERGE    0.000388     0.000000     0.000000 
+DELETE   0.000004     0.000000     0.000000 
+Add-DEL  0.000235     0.000000     0.000000 
+
+Test 5 blocks, each 150 rows
+         REAL         USER         SYS
+MERGE    0.000939     0.000000     0.000000 
+DELETE   0.000036     0.000000     0.000000 
+Add-DEL  0.000572     0.000000     0.000000 
+
+Test 20 blocks, each 100 rows
+         REAL         USER         SYS
+MERGE    0.001015     0.000000     0.000000 
+DELETE   0.000020     0.000000     0.000000 
+Add-DEL  0.001102     0.000000     0.000000 
+
+Test 20 blocks, each 500 rows
+         REAL         USER         SYS
+MERGE    0.008080     0.000000     0.010000 
+DELETE   0.000685     0.000000     0.000000 
+Add-DEL  0.014978     0.010000     0.000000 
+
+Test 100 blocks, each 100 rows
+         REAL         USER         SYS
+MERGE    0.010513     0.010000     0.000000 
+DELETE   0.000470     0.000000     0.000000 
+Add-DEL  0.012807     0.010000     0.010000 
+
+Test 100 blocks, each 300 rows
+         REAL         USER         SYS
+MERGE    0.022088     0.010000     0.010000 
+DELETE   0.001440     0.000000     0.000000 
+Add-DEL  0.021241     0.010000     0.010000 
+
+Test 300 blocks, each 800 rows
+         REAL         USER         SYS
+MERGE    0.055062     0.040000     0.030000 
+DELETE   0.005546     0.000000     0.000000 
+Add-DEL  0.057917     0.030000     0.020000 
+
+Bibloteka dynamiczna
+Test 5 blocks, each 15 rows
+         REAL         USER         SYS
+MERGE    0.000283     0.000000     0.000000 
+DELETE   0.000005     0.000000     0.000000 
+Add-DEL  0.000248     0.000000     0.000000 
+
+Test 5 blocks, each 150 rows
+         REAL         USER         SYS
+MERGE    0.000872     0.000000     0.000000 
+DELETE   0.000049     0.000000     0.000000 
+Add-DEL  0.000579     0.000000     0.000000 
+
+Test 20 blocks, each 100 rows
+         REAL         USER         SYS
+MERGE    0.001107     0.000000     0.000000 
+DELETE   0.000015     0.000000     0.000000 
+Add-DEL  0.000971     0.000000     0.010000 
+
+Test 20 blocks, each 500 rows
+         REAL         USER         SYS
+MERGE    0.007929     0.000000     0.010000 
+DELETE   0.000609     0.000000     0.000000 
+Add-DEL  0.006827     0.000000     0.000000 
+
+Test 100 blocks, each 100 rows
+         REAL         USER         SYS
+MERGE    0.010573     0.010000     0.000000 
+DELETE   0.000482     0.000000     0.000000 
+Add-DEL  0.010817     0.010000     0.010000 
+
+Test 100 blocks, each 300 rows
+         REAL         USER         SYS
+MERGE    0.023221     0.010000     0.020000 
+DELETE   0.002510     0.000000     0.000000 
+Add-DEL  0.025403     0.010000     0.010000 
+
+Test 300 blocks, each 800 rows
+         REAL         USER         SYS
+MERGE    0.052218     0.020000     0.020000 
+DELETE   0.003923     0.010000     0.000000 
+Add-DEL  0.056657     0.030000     0.030000 
+

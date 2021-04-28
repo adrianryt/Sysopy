@@ -1,0 +1,3 @@
+Czas mergowania: 
+lib   0.000116
+sys   0.000250

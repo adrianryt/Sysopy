@@ -1,0 +1,28 @@
+         REAL         USER         SYS
+MERGE    0.004612     0.000000     0.000000 
+
+Test 100 blocks, each 100 rows
+         REAL         USER         SYS
+MERGE    0.004987     0.000000     0.000000 
+
+Test 100 blocks, each 300 rows
+         REAL         USER         SYS
+MERGE    0.012777     0.000000     0.010000 
+
+Test 300 blocks, each 800 rows
+         REAL         USER         SYS
+MERGE    0.059770     0.000000     0.060000 
+
+Test 500 blocks, each 300 rows
+         REAL         USER         SYS
+MERGE    0.141223     0.000000     0.140000 
+
+Test 500 blocks, each 1000 rows
+         REAL         USER         SYS
+MERGE    0.278149     0.000000     0.280000 
+
+Test 1000 blocks, each 1000 rows
+         REAL         USER         SYS
+MERGE    1.161375     0.000000     1.170000 
+
+Test 5000 blocks, each 3000 rows

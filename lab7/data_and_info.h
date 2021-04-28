@@ -1,0 +1,2 @@
+
+#define HOME getenv("HOME")
